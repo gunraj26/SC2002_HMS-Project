@@ -1,0 +1,11 @@
+102,102,Doctor,Sarah Johnson,sarah.johnson@hospital.com,98729872,D002,CARDIOLOGY
+103,pass103,Doctor,Emily Brown,emily.brown@hospital.com,3456789012,D003,ONCOLOGY
+104,pass104,Doctor,Michael Green,michael.green@hospital.com,4567890123,D004,PEDIATRICS
+105,pass105,Doctor,Linda White,linda.white@hospital.com,5678901234,D005,ORTHOPEDICS
+106,pass106,Doctor,James Black,james.black@hospital.com,6789012345,D006,DERMATOLOGY
+107,pass107,Doctor,Patricia Grey,patricia.grey@hospital.com,7890123456,D007,GYNECOLOGY
+108,pass108,Doctor,Robert Blue,robert.blue@hospital.com,8901234567,D008,GASTROENTEROLOGY
+109,pass109,Doctor,Barbara Purple,barbara.purple@hospital.com,9012345678,D009,NEPHROLOGY
+1,admin123,Administrator,Admin,admin@example.com,1234567890,A001
+112,password123,Receptionist,Anika,anika@gmail.com,12321232,R001
+113,p123,Pharmacist,Janak,jan@gmail,454a,P001
